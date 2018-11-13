@@ -1,0 +1,231 @@
+#+startup: beamer
+#+latex_class_options: [presentation,xcolor=table]
+#+beamer_theme: sc18
+#+latex_header: \usepackage{inconsolata}
+
+#+title:  Navigating SC 2018
+#+author: Elsa Gonsiorowski, PhD@@latex:\\@@Lawrence Livermore National Laboratory
+#+date:   November 12-13, 2018
+
+#+options: H:2
+
+* Introduction to SC
+
+** Welcome!
+
+*About me*
+- 4th SC (attending since 2015)
+- Member of the Diversity & Inclusivity Committee
+- Must-see recommendation: Women in HPC Workshop
+- HPC I/O Support at Lawrence Livermore National Laboratory
+
+# Poll
+# Who is here at SC for the first time?
+
+** Supercomputing Conference Series
+
+- Started in 1988
+- "International Conference for High Performance Comptuing, Networking, Stroage, and Analysis"
+- Sponsored by ACM SIGHPC and IEEE-Computer Society
+- About 12,000 attendees
+- Representing 70 countries worldwide
+
+# Poll
+# only 20-25% of the attendees are from the US
+# who is from where?
+
+* Conference Components
+
+** SCinet
+
+#+BEGIN_center
+/1 *year* to design,/
+/1 *month* to build,/
+
+/1 *week* to operate,/
+/1 *day* to teardown/
+#+END_center
+
+- 225+ volunteers
+- 60+ miles of fiber optic cable in the exhibit halls
+- 300+ wireless access points
+- 1,000,000 Sq-ft coverage
+- 4.02 Terabits per sec of wide area network connectivity
+- $52M loaned network equipment
+
+# note: get the stats from the sunday blog post
+
+** Student Programs
+
+- *Student & Post-Doc Job Fair* /Wednesday/
+- *Students@SC Sessions* /open to all/
+- Student Cluster Competition
+  - 16 Teams, 5 from new institutions
+- Student Volunteers
+- HPC Experience for Undergraduates
+- Mentor-Protege Program
+- Tours for local students
+
+# get stats from blog post (september)
+
+** Registration Categories
+
+#+attr_latex: :align rl
+| *Technical Program* | @@latex:\colorbox{sc18 red}{\color{white}TP}@@  |
+| *Exhibitor*         | @@latex:\colorbox{sc18 red}{\color{white}EX}@@  |
+| *Exhibit Hall Only* | @@latex:\colorbox{sc18 red}{\color{white}EXH}@@ |
+| *Workshop*          | @@latex:\colorbox{sc18 red}{\color{white}W}@@   |
+| *Tutorial*          | @@latex:\colorbox{sc18 red}{\color{white}TUT}@@ |
+
+** Main Conference Components
+
+#+attr_latex: :align cll
+| *Technical Program* | /Tues--Thurs/        | @@latex:\colorbox{sc18 red}{\color{white}TP}@@        |
+| *Exhibits*          | /Mon 7pm--Thurs 3pm/ | @@latex:\colorbox{sc18 red}{\color{white}TP EX EXH}@@ |
+| *Workshops*         | /Sun, Mon, Fri/      | @@latex:\colorbox{sc18 red}{\color{white}W}@@         |
+| *Tutorials*         | /Sun, Mon/           | @@latex:\colorbox{sc18 red}{\color{white}TUT}@@       |
+
+*** \centering Something for Everyone
+
+# Poll
+# Who is here for Tech Prog?
+# What about Exhibitors?
+# Who wants to do everything?
+
+** Tech Program Only Events
+
+#+attr_latex: :align rl
+| *Papers*                 | @@latex:\colorbox{sc18 red}{\color{white}TP}@@ |
+| *Non-Plenary Talks*      | @@latex:\colorbox{sc18 red}{\color{white}TP}@@ |
+| *Panels*                 | @@latex:\colorbox{sc18 red}{\color{white}TP}@@ |
+| *Tech Program Breaks*    | @@latex:\colorbox{sc18 red}{\color{white}TP}@@ |
+| *Tech Program Reception* | @@latex:\colorbox{sc18 red}{\color{white}TP}@@ |
+
+** Exhibitor Relevant Events
+
+#+attr_latex: :align rl
+| *Exhibitor Forum*              | /10:30am to close/            |
+| *Emerging Technology Showcase* | /Booth 619/                   |
+| *HPC Impact Showcase*          | /Wed, Thurs/                  |
+| *Exhibit Hall Presentations*   | /various booths/              |
+| *Exhibit Hall Prizes*          | /drawing each day, Booth 242/ |
+
+#+BEGIN_CENTER
+/Most of these events are open to all attendees/
+#+END_CENTER
+
+** Events to Mingle
+
+#+attr_latex: :align rl
+| *Birds-of-a-Feather Sessions (BoFs)* | @@latex:\colorbox{sc18 red}{\color{white}TP EX EXH}@@ |
+| *HPC Inspires Plenary*               | @@latex:\colorbox{sc18 red}{\color{white}ALL}@@       |
+| *Gala Opening Reception*             | @@latex:\colorbox{sc18 red}{\color{white}TP EX}@@     |
+| *Keynote*                            | @@latex:\colorbox{sc18 red}{\color{white}ALL}@@       |
+| *Invited Plenary Talks*              | @@latex:\colorbox{sc18 red}{\color{white}TP EX}@@     |
+| *Posters* & *Poster Reception*       | @@latex:\colorbox{sc18 red}{\color{white}TP EX}@@     |
+
+** Overwhelmed Yet?
+
+*** \centering Stay for the hands-on scheduling activity
+#+BEGIN_CENTER
+And start thinking about next year!
+
+[[http://sc19.supercomputing.org]]
+
+/Check out the deadlines page/
+#+END_CENTER
+
+
+* Things You Should Know
+** Places to Visit
+
+#+attr_latex: :align rl
+| *Conference Store*            | /Level 2, Lobby D/            |
+| *Info Booths*                 | /Level 2, Lobby C-D, Lobby E/ |
+| *SC19 Booth*                  | /Level 2, Lobby E/            |
+| *Visit Dallas Booth*          | /Level 2, Lobby D/            |
+| *Coat and Bag Check*          | /Level 1, Lobby E/            |
+| *Lost and Found*              | /Accross from Registration/   |
+| *Parents Room*                | /Level 1, Room D160/          |
+| *Quiet Room*                  | /Level 3, Room A301/          |
+| *Security*                    | /Level 2, Room A201/          |
+| *Shuttle Stop*                | /Level 1, Lobby E/            |
+| *SC 30th Anniversary Exhibit* | /Lobby D/                     |
+
+** Stay Sane
+
+- There is a /ton/ happening this week
+  - We are here to help
+  - Use the /Conference Schedule at a Glane/
+- Take care of yourself first
+  - Hydrate
+  - Sleep
+
+*** \centering We hope you have fun and come back next year!
+
+** Safety Notes
+
+- Don’t walk alone at night. Use the buddy system. Stay on well-lit or major streets at night.
+- Carry a phone in case of emergencies and have at least one other attendee’s contact information.
+- Do not wear your conference badge outside the convention center. It can attract attention from scammers and criminals.
+- Ask hotel staff if certain areas are safe before going out.
+- Do not leave belongings unattended.
+
+* Questions?
+
+** Questions?
+
+* Hands On: Plan Your Week!
+** Hands On Activity
+
+*** \centering Plan your week!
+[[https://sc18.supercomputing.org/experience/sc-schedule/]]
+- flag items you are interested in
+- import events to your calendar
+
+Or use the /Conference Schedule at a Glance/ booklet
+
+** Must See Events!
+
+*** Monday
+
+| 5:30 pm | Exhibit Hall B | *HPC Inspires Plenary*                |                                                   |
+| 7:00 pm | Exhibit Hall C | *Gala Opening Reception*              | @@latex:\colorbox{sc18 red}{\color{white}TP EX}@@ |
+| 8:30 pm | Booth 242      | *Exhibit Hall Prize Drawing*          |                                                   |
+
+*** Tuesday
+
+| 7:30 am | D227            | *Navigating SC*    |                                                   |
+| 8:30 am | Exhibit Hall B  | *Keynote*          | \hspace*{3cm}                                     |
+| 5:15 pm | C2/3/4 Ballroom | *Poster Reception* | @@latex:\colorbox{sc18 red}{\color{white}TP EX}@@ |
+
+** Must See Events!
+
+*** Wednesday
+
+| 10:00 am | D163/165/170/172 | *Student Job Fair*   | /Pre-Register/                                        |
+| 12:00 pm | C147/148/154     | *SC: The Conference* | @@latex:\colorbox{sc18 red}{\color{white}TP}@@        |
+| 4:00 pm  | Exhibit Hall C-F | *Family Day*         | @@latex:\colorbox{sc18 red}{\color{white}TP EX EXH}@@ |
+
+*** Thursday
+
+| 8:30 am  | Exhibit Hall B | *SC19 Conference Preview* |                                                       |
+| 12:45 pm | Exhibit Hall B | *Awards Ceremony*         | @@latex:\colorbox{sc18 red}{\color{white}TP EX EXH}@@ |
+| 7:00 pm  | Perot Museum   | *Tech Program Reception*  | @@latex:\colorbox{sc18 red}{\color{white}TP}@@        |
+
+** github.com/supercomputingconference
+
+*** \centering Get These Slides
+[[https://github.com/supercomputingconference/sc18-nav-sc]]
+
+#+attr_latex: :width 5cm
+[[file:sc18-logo.png]]
+
+* SC19
+** SC19 -- Denver, CO
+
+#+BEGIN_CENTER
+[[http://sc19.supercomputing.org]]
+
+/Check out the deadlines page/
+#+END_CENTER
